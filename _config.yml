@@ -1,5 +1,8 @@
+name: RyanGolla
+favicon: null
+layout_spectrum: 0.24489
+typography_spectrum: 0.2509
 title: Ryan Golla
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.566595
-  lightness: 0.2572502
-  brandStrength: 0.2757085422053933
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  rhythmicContrast: 0.830827
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: RyanGolla
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.6772288
-layout_spectrum: 1
+color:
+  brandColors:
+    - '#ff9a00'
+    - '#fe3615'
+    - '#ff4b0c'
+    - '#ff7300'
+    - '#ffbc01'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.5
+  rhythmicContrast: 1
+purpose: []
